@@ -1,0 +1,1 @@
+mavlink_endpoint = "udp:0.0.0.0:14550"
